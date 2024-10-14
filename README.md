@@ -1,15 +1,63 @@
 <h1>Hi, I'm Alicja! 🦈</h1>
-<h3>Self-taught Frontend Developer</h3>
+<h3>Aspiring Frontend Developer</h3>
+<p>
+  Passionate about creating engaging user experiences through innovative design and technology.
+</p>
+<br />
+<p>
+  Mainly specializing in React.js; nonetheless, eager to learn as many technologies as possible and get out of my comfort zone.
+</p>
+<p>
+  As a person connected to art since childhood I put great emphasis on the designs I am creating. Although focusing mainly on development proficiency, UX/UI is something I have grown very fond of. 
+</p>
+
+<br />
+
+<p>🎓   </p>
+<p>   </p>
+
+<br />
+
+<h3> Currently live projects: </h3>
+<div>
+  <a href="https://www.komputerowyserwis.com" >🡪   Kom-Part Serwis Komputerowy</a>
+  <p>
+  Frontend Stack: React.js, Vite, Strapi Headless CMS <br />
+  Backend Stack: Digital Ocean Droplet, Nginx web server, GitHub web hook <br />
+  Vercel cloud deployment
+  </p>
+</div>
+<div>
+  <a href="https://anetkabieryt.pl" >🡪   Anetka Bieryt</a>
+  <p>
+  Frontend Stack: HTML, SCSS, Vue.js, Vite.js <br />
+  Vercel cloud deployment
+  </p>
+</div>
+
+<br />
+
+<h3> Production stage: </h3>
+<div>
+  <a href="https://www.komputerowyserwis.com" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a>
+  <p>
+  Frontend Stack: HTML, CSS, React.js, Vite.js <br />
+  Current static files deployed on Vercel cloud
+  <br />
+  Collaboration with <a href="https://github.com/Astan28"> @Astan28 <a/> - responsible for backend
+  </p>
+</div>
 
 <br />
 
 <p>
 <p align="left">Stack:</p>
-<img src="https://github.com/user-attachments/assets/f2a82895-1fce-4eaf-828c-19a2f7c04345" alt="htmlIcon" width="70" height="70" />
-<img src="https://github.com/user-attachments/assets/ea030430-6987-4026-b8e5-fb3389512f74" alt="cssIcon" width="70" height="70" />
-<img src="https://github.com/user-attachments/assets/177b1449-9668-4546-bee2-533a7f3411af" alt="jsIcon" width="70" height="70" />
-<img src="https://github.com/user-attachments/assets/9d99764e-326a-4134-9442-e146f6cc2b70" alt="reactIcon" width="70" height="70" />
-<img src="https://github.com/user-attachments/assets/ae748bd3-2cd5-47fb-a83a-34f3ce721702" alt="vueIcon" width="70" height="70" />
+<img src="https://github.com/user-attachments/assets/f94cc8c6-ef12-4b32-8759-e42e71cdc1cd" alt="htmlIcon" width="60" height="60" />
+<img src="https://github.com/user-attachments/assets/e69de920-44f2-4921-a9d5-87b112659429" alt="cssIcon" width="60" height="60" />
+<img src="https://github.com/user-attachments/assets/1b96b069-e5d3-4bdf-abaf-dd9dbd8430ed" alt="jsIcon" width="60" height="60" />
+<img src="https://github.com/user-attachments/assets/dcd99818-d6bd-402d-871c-a48db16823f5" alt="reactIcon" width="60" height="60" />
+<img src="https://github.com/user-attachments/assets/1feaffb9-b462-4d0b-a790-255d280935cf" alt="vueIcon" width="60" height="60" />
+<!-- <img src="" alt="Icon" width="60" height="60" /> -->
 </p>
 
 
@@ -27,13 +75,14 @@
 
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![html5-fill](https://github.com/user-attachments/assets/f94cc8c6-ef12-4b32-8759-e42e71cdc1cd)
+![css3-fill](https://github.com/user-attachments/assets/e69de920-44f2-4921-a9d5-87b112659429)
+![javascript-fill](https://github.com/user-attachments/assets/1b96b069-e5d3-4bdf-abaf-dd9dbd8430ed)
+![reactjs-line](https://github.com/user-attachments/assets/dcd99818-d6bd-402d-871c-a48db16823f5)
+![vuejs-fill](https://github.com/user-attachments/assets/1feaffb9-b462-4d0b-a790-255d280935cf)
+![angularjs-fill](https://github.com/user-attachments/assets/1df47e1e-19a4-41a1-abee-1845d0be1685)
+![svelte-fill](https://github.com/user-attachments/assets/a25d4d20-e41f-4d67-bab6-21c5ef4f64be)
+![flutter-fill](https://github.com/user-attachments/assets/caec7476-a898-41ab-a4b7-983dbaa32939)
+![nextjs-fill](https://github.com/user-attachments/assets/69ee41f3-0dcc-46ee-b508-edc19948acce)
+![gatsby-fill](https://github.com/user-attachments/assets/274bd1da-76d6-491c-b84c-925147f973d7)
 -->
