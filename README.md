@@ -13,8 +13,11 @@
 
 <br />
 
-<p>🎓   </p>
-<p>   </p>
+<p>
+  🖥️   Computer Science Student <br />
+  ☕   Coffee enthusiast <br />
+  🐕   Doggo lover <br />
+</p>
 
 <br />
 
