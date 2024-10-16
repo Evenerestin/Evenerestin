@@ -43,8 +43,8 @@
 <h3> Ongoing projects: </h3>
 <div>
 <!--   <a href="" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a> <br /> -->
-  <p>   Arteterapia - Agnieszka Kornas-Wisniewska</p> <br />
   <a href="https://github.com/Evenerestin/Arteterapia-Client/blob/main/README.md" >🡪   GitHub Repository ReadMe</a>
+  <p>   Arteterapia - Agnieszka Kornas-Wisniewska</p>
   <p>
   Frontend Stack: HTML, CSS, React.js, Vite.js <br />
   Current static files deployed on Vercel cloud
