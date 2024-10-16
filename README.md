@@ -40,9 +40,10 @@
 
 <br />
 
-<h3> Production stage: </h3>
+<h3> Ongoing projects: </h3>
 <div>
-  <a href="https://www.komputerowyserwis.com" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a>
+  <a href="" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a>
+  <a href="https://github.com/Evenerestin/Arteterapia-Client/blob/main/README.md" >🡪   GitHub Repository ReadMe</a>
   <p>
   Frontend Stack: HTML, CSS, React.js, Vite.js <br />
   Current static files deployed on Vercel cloud
