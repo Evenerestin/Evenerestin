@@ -44,9 +44,10 @@
 <div>
 <!--   <a href="" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a> <br /> -->
   <a href="https://github.com/Evenerestin/Arteterapia-Client/blob/main/README.md" >🡪   GitHub Repository ReadMe</a>
-  <p>   Arteterapia - Agnieszka Kornas-Wisniewska</p>
-  <p>
-  Frontend Stack: HTML, CSS, React.js, Vite.js <br />
+  <p>   
+    Arteterapia - Agnieszka Kornas-Wisniewska <br/ >
+    Frontend Stack: HTML, CSS, React.js, Vite.js
+  </p>
 <!--   Current static files deployed on Vercel cloud -->
 <!--   <br /> -->
 <!--   Collaboration with <a href="https://github.com/Astan28"> @Astan28 <a/> - responsible for backend -->
