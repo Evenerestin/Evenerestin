@@ -48,9 +48,9 @@
   <p>
   Frontend Stack: HTML, CSS, React.js, Vite.js <br />
 <!--   Current static files deployed on Vercel cloud -->
-  <br />
-  Collaboration with <a href="https://github.com/Astan28"> @Astan28 <a/> - responsible for backend
-  </p>
+<!--   <br /> -->
+<!--   Collaboration with <a href="https://github.com/Astan28"> @Astan28 <a/> - responsible for backend -->
+<!--   </p> -->
 </div>
 
 <br />
