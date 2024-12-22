@@ -43,7 +43,7 @@
 <h3> Ongoing projects: </h3>
 <div>
 <!--   <a href="" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a> <br /> -->
-  <a href="https://github.com/Evenerestin/Arteterapia-Client/blob/main/README.md" >🡪   GitHub Repository ReadMe</a>
+  <a href="https://arteterapia.netlify.app" >🡪  Arteterapia </a>
   <p>   
     Arteterapia - Agnieszka Kornas-Wisniewska <br/ >
     Frontend Stack: HTML, CSS, React.js, Vite.js
