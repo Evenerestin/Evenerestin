@@ -25,29 +25,22 @@
 <div>
   <a href="https://www.komputerowyserwis.com" >🡪   Kom-Part Serwis Komputerowy</a>
   <p>
-  Frontend Stack: React.js, Vite, Strapi Headless CMS <br />
-  Backend Stack: Digital Ocean Droplet, Nginx web server, GitHub web hook <br />
-  Vercel cloud deployment
+  Stack: React.js, Vite, Strapi Headless CMS, Digital Ocean Droplet, Nginx web server, GitHub web hook
   </p>
 </div>
 <div>
   <a href="https://anetkabieryt.pl" >🡪   Anetka Bieryt</a>
   <p>
-  Frontend Stack: HTML, SCSS, Vue.js, Vite.js <br />
-  Vercel cloud deployment
+  Stack: Vue.js, Vite.js, SCSS
   </p>
 </div>
 <div>
   <a href="https://www.arteterapia-akw.pl" >🡪   Arteterapia - Agnieszka Kornas-Wisniewska</a>
   <p>   
     Arteterapia - Agnieszka Kornas-Wisniewska <br/ >
-    Frontend Stack: HTML, CSS, React.js, Vite.js
+    Stack: React.js, Vite.js, CSS
   </p>
 </div>
-
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evenerestin&show_icons=true&locale=en&layout=compact" alt="evenerestin" /></p>
 
 <br />
 <br />
